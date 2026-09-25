@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow Ai",
+  "description": "Assistant intelligent de gestion de tâches et de flux de travail propulsé par l'IA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
